@@ -8,7 +8,7 @@ Este projeto usa as seguintes tecnologias:
 - [Redux](https://redux.js.org/basics/usagewithreact) para a condução do front com o back.
 
 Outras tecnologias utilizadas no projeto (packages e servidor):
-- [MongoDB Atlas](https://www.mongodb.com/cloud) server
+- [MongoDB Atlas](https://www.mongodb.com/cloud) server(Utilizei o Microsoft Azure)
 - [Nodemon](https://nodemon.io/)
 
 ## Packages
