@@ -45,6 +45,7 @@ module.exports = {
   mongoURI: "YOUR_MONGO_URI_HERE",
   secretOrKey: "secret"
 };
+```
 
 ## Start
 (Assumindo que possui node/npm e mongo).
