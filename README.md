@@ -36,7 +36,7 @@ Outras tecnologias utilizadas no projeto (packages e servidor):
 - [redux](https://www.npmjs.com/package/redux)
 - [redux-thunk](https://www.npmjs.com/package/bbody-parser)
 
-## Configuration
+## Configurações
 
 Caso deseje troque a `MONGOURI` pela sua própria no servidor/ou sua URI local em `config/keys.js`. E adicione um secret para segurança da sua API/password.
 
@@ -47,7 +47,7 @@ module.exports = {
 };
 ```
 
-## Start
+## Rodando o projeto
 (Assumindo que possui node/npm e mongo).
 ```javascript
 // Tenha convição que tem o nodemon instalado, se não tiver rode o comando:
